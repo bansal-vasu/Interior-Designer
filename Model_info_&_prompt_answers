@@ -1,0 +1,80 @@
+Made By Vasu Bansal(045055)
+Section - PGDM BDA(H)
+Submitted to - Prof. Ashok Harnal
+
+**Room Interior Suggester**
+
+*Installation and Usage*
+
+You can access the model through 'https://openwebui.com/m/cshall822/travelagent' or by running it locally if you have set up a compatible environment.
+
+*Overview of the model*
+The Virtual Interior Designer model is designed to assist users in visualizing and planning interior spaces. 
+It offers personalized design suggestions based on user inputs such as room dimensions, preferred styles, color schemes, and budget constraints. 
+The model aims to provide both functional and aesthetically pleasing interior designs.
+This model is a part of the Lifestyle category and can be accessed at OpenWebUI.
+
+*Features*
+Room Layout Generation and Optimization:
+The model generates various room layouts based on user-provided dimensions, ensuring efficient space utilization. It considers furniture placement, traffic flow, and room functionality,
+allowing users to explore different configurations and select the one that best suits their needs.
+Personalized Style and Theme Recommendations:
+Users can specify their preferred design styles, such as modern, rustic, or minimalist. The model then suggests appropriate color palettes, materials, and decor items that align with the chosen theme, 
+ensuring a cohesive and personalized design.
+
+*Interaction with the model*
+Start a conversation by asking the model about room decor recommendations, based on your lifestyle, vision for the room interior and your tastes.
+
+*Sample Conversations or prompt answered by the LLM*
+
+
+User Prompt 1:
+"Who are you and what can you do?"
+
+Model Response:
+"Hello! I’m your Virtual Interior Designer, here to transform your space into something that’s not only beautiful but also functional.
+I can help you design any room in your home or office, whether you're starting from scratch or just looking for a fresh update. Here's what I can do for you:
+
+1. Room Layouts: I can generate multiple layout options based on your room’s dimensions, optimizing the space for comfort, style, and utility.
+2. Style Recommendations: I can suggest design themes, color palettes, and materials that reflect your personal taste, whether you love modern, rustic, or eclectic styles.
+3. Furniture and Decor: I’ll recommend furniture pieces and decor items that match your chosen style and fit your budget. Plus, I can provide links to online stores where you can purchase these items.
+4. Visualization: Want to see how it all comes together? I can create 2D layouts and 3D renderings so you can visualize the space before making any changes.
+
+Let’s create a space that truly feels like home!"
+
+User Prompt 2:
+"I have a small living room that's 10x12 feet. I like a cozy, rustic style with lots of wood and warm colors. Can you suggest a layout and some decor ideas?"
+
+Model Response:
+"Absolutely! For your 10x12 foot living room, here’s a cozy and rustic layout that maximizes the space while bringing in those warm, wooden elements you love:
+
+1. Layout: I suggest placing a comfortable, plush sofa along the longer wall, with a small, round wooden coffee table in front.
+           Opposite the sofa, a compact TV stand made of reclaimed wood can hold your entertainment setup. To the left of the sofa,
+           a narrow bookshelf or console table can add storage without crowding the room. In the corner, a soft armchair next to a floor lamp creates a perfect reading nook.
+
+2. Color Scheme: Warm tones like deep browns, rich tans, and a touch of burnt orange will create that cozy vibe. Consider painting the walls a soft,
+                 neutral beige to make the room feel larger, while adding warmth with wooden accents.
+
+3. Decor Ideas: To enhance the rustic feel, add a large, woven area rug in a neutral tone beneath the coffee table. Decorate with throw pillows and blankets in earthy hues and textures like wool or linen. 
+                On the walls, hang a few pieces of nature-inspired art or wooden frames. A couple of indoor plants, like a fern or a small potted tree, will bring in a fresh, organic touch."
+
+User Prompt 3:
+"Could you also suggest how I can make the room feel a bit larger without losing that cozy vibe?"
+
+Model Response:
+"Of course! Making a small room feel larger while maintaining a cozy atmosphere is all about smart design choices. Here are some tips specifically tailored to your space:
+
+1. Mirrors: Adding a large mirror on one of the walls can create the illusion of more space. A rustic wooden frame will keep it aligned with your style. Placing it opposite a window, if possible,
+            will reflect light and make the room feel brighter and more open.
+
+2. Light Colors: While warm tones are key to a cozy vibe, keeping the larger surfaces (like walls and the sofa) in lighter shades will help the room feel more spacious.
+                 Consider a soft beige or light taupe for the walls, which can reflect light and open up the space.
+
+3. Multi-Functional Furniture: Opt for furniture that doubles as storage, like a coffee table with drawers or a sofa with a storage ottoman. This reduces clutter, making the room feel more open.
+
+4. Vertical Space: Make use of vertical space by adding tall bookshelves or wall-mounted storage. This draws the eye upward, giving the room a more expansive feel without adding bulk.
+
+5. Simplified Decor: Stick to a few key decorative pieces rather than overcrowding the room. A couple of large, impactful pieces (like a bold, rustic wall art or a statement light fixture)
+                     will add personality without overwhelming the space.
+
+These adjustments will enhance the room's sense of space while keeping it warm and inviting. Shall I update the visualization to reflect these changes?"
